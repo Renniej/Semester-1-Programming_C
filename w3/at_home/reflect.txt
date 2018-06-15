@@ -1,0 +1,13 @@
+For(Initlization; condition; i++/counter condition)
+Do ... while(condition)
+while ( condition)
+
+
+
+Do ... while does the code once then decides whether or not to initalize the loop.
+While looks at the condition then goes through the code & loop if the condition is met. 
+
+a conditional expression is a expression in code that must be met in order for something to happen.
+Ex. If (a > b) { printf("A is bigger then B");}     
+In this case a > b is the conditional expression and if it is not met then the following code does not
+execute. 

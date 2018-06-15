@@ -1,0 +1,8 @@
+1) The max number of days was 10 so you had to make sure you had enough space to hold a max of 10 elements.
+2) Matching arrays help keep your data organize and readable to others.  The disadvtange of them is now you have to account for 2 sets of arrays instead of 1.
+3) I found the at home portion a bit difficult due to me not using a flowchart/plan it before hand.  I kind of coded line by line  as I read the instructions. 
+Because of this my code quickly became messy due to mistakes and what not.  
+
+If i were to try this again i would 
+1. make a flowchart 
+2. Incorporate some functions to make it more readable/organized. 

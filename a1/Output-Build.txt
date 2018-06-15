@@ -1,0 +1,4 @@
+﻿1>------ Build started: Project: A1MS2, Configuration: Debug Win32 ------
+1>a1ms2.c
+1>A1MS2.vcxproj -> L:\Programming lab Assignment 1 At home\A1\MS2\Debug\A1MS2.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

@@ -1,0 +1,6 @@
+﻿  contacts.c
+  contactHelpers.c
+c:\users\trennie1\desktop\ms4\contacthelpers.c(87): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  A2MS4.vcxproj -> C:\Users\trennie1\Desktop\MS4\x64\Debug\A2MS4.exe
+  A2MS4.vcxproj -> C:\Users\trennie1\Desktop\MS4\x64\Debug\A2MS4.pdb (Partial PDB)

@@ -1,0 +1,20 @@
+The naming schemes for both findContactIndex & getTenDigitPhone are so straightfoward that
+even if someone wasn't a coder they could get the jest of what it does. 
+
+GetTenDigitPhone ensures
+that the program will never crash if the user enters a number larger than 11 nor will it accept 
+any number less than that. It is also very easy to edit in the future if a programmer wanted it
+to take less or more digits. 
+
+
+Since we don't have to rewrite the code found in findContactIndex over and over again.  When bug testing
+we can assume that findContactIndex is working properly & spend more time looking at other possible places for bugs.
+
+
+4. 
+
+- New Librays and functions such as isDigit(), isSpace()
+- Int does not support 11 digit number(float or double is better)
+- Relearnt how to bubble sort
+- fget, clearing \n out of char arrays that got input from Fget.
+- Accounting for more invalid inputs

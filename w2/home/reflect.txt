@@ -1,0 +1,19 @@
+1- What do think is the most important thing you learned in this workshop?
+
+The most important thing I learnt in this understanding the importantance of paying attention 
+to what type of variables you are working with. I can see how not properly type casting/mixing variable types
+such as float & double could lead to some huge development walls, especially if your not continously testing
+your program. 
+2- Why must you add .005 to the value derived when calculating the GST owing?
+It was used to make sure that GST would be properly calculated and rounded. 
+
+3- What is the result of a casting operation?
+
+Casting changes one variable type to another.
+
+4- Why do you think you were required to use the modulus operator in this workshop?
+
+I believe modulus was required so that we could learn and understand of how int and double variables behave when and
+when not typecasted. Without the required modulus operator this excerise would of been just a easy extension to
+the in_lab portion.  While adding modulus brings up an extra unecessary barrier it also offers
+ essential knowledge variable behaviour. 

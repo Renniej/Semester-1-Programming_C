@@ -1,0 +1,9 @@
+Script started on Thu 01 Feb 2018 08:11:41 PM EST
+trennie1@matrix:~/Programming C lect Lab/w2> ws
+Please enter the amount to be paid: $8.68
+Loonies required: 8, balance owing $0.68
+Quarters required: 2, balance owing $0.18
+trennie1@matrix:~/Programming C lect Lab/w2> exit
+exit
+
+Script done on Thu 01 Feb 2018 08:11:55 PM EST

@@ -1,0 +1,10 @@
+
+In line number 28 of your output:
+The output should be:
+The average (mean) temperature was: 4.50
+But your output is: 
+The average (mean) temperature was: 4.50trennie1@matrix:~/Programming C lect Lab/w3/in_lab> exit
+                                        ^
+----------------------------------------|
+Professor's character ASCII code: hex(d), dec(13)
+un-matched character ASCII code: hex(74), dec(116)
